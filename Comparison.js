@@ -15,8 +15,8 @@ console.log(null<=1);
 
 console.log(undefined>=0);
 console.log(undefined <= 0);
-console.log(undefined == 0);
+console.log(undefined == 0);   //undefined means the variable is declared but the value is not inserted
 
 //strict check it is not only check the values it also checks the datatype
 
-console.log("2"===2);
+console.log("2"===2);  //false
